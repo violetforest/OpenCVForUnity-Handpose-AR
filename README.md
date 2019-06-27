@@ -1,4 +1,4 @@
-[![Handpose AR screenshot](./assets/handposeAR-screenshot.png)](http://www.youtube.com/watch?v=MmQNmrI9EPY)
+[![Handpose AR screenshot](https://github.com/violetforest/OpenCVForUnity-Handpose-AR/blob/master/Assets/handposeAR-screenshot.png)
 
 [Blog post](https://violetforest.com/blog/opencvforunity/2019/06/24/handpose-ar/)
 
